@@ -11,12 +11,12 @@
 <img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="155" alt="Side gif" />
 
 ```javascript
-const pushyanth = {
+const Pushyanth = {
   pronouns: "He/Him",
   location: "🌍 Earth",
-  currentFocus: "Thriving as a lifelong student of code 🎓",
-  learning: "New technologies every day 📚",
-  funFact: "The first programmer was a woman"
+  currentFocus: "Thriving As a Lifelong Student of Code 🎓",
+  learning: "New Technologies Every Day 📚",
+  funFact: "The First Programmer Was a Woman"
 };
 ```
 
@@ -29,7 +29,7 @@ const pushyanth = {
         <li>🌱 Growing skills in <strong>Advanced Web Development</strong> &amp; <strong>Data Structures</strong></li>
         <li>💼 Shipping <strong>open-source features</strong> that matter</li>
         <li>🤝 Seeking <strong>collaborations</strong> on innovative ideas</li>
-        <li>🔭 Diving into <strong>AI/ML</strong> and <strong>Cloud</strong> ecosystems</li>
+        <li>🔭 Diving into <strong>AI/ML</strong> and <strong>Data Science</strong> ecosystems</li>
         <li>📝 Crafting clean, maintainable code</li>
         <li>⚡ <strong>Mantra</strong>: <em>Code • Eat • Sleep</em> 🔄</li>
       </ul>
