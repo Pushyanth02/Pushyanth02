@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Pushyanth✨&fontSize=58&fontAlign=52&fontAlignY=33&desc=Developer%20•%20Creator%20•%20Innovator&descAlign=49&descAlignY=55&descSize=20&fontColor=ffffff&color=0:fbcfe8,50:c7d2fe,100:a7f3d0" alt="Pushyanth banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Pushyanth♾️&fontSize=58&fontAlign=52&fontAlignY=33&desc=Developer%20•%20Creator%20•%20Innovator&descAlign=49&descAlignY=55&descSize=20&fontColor=ffffff&color=0:fbcfe8,50:c7d2fe,100:a7f3d0" alt="Pushyanth banner" />
 </p>
 
 <p align="center">
@@ -27,10 +27,10 @@ const Pushyanth = {
     <td style="vertical-align:left; padding:16px; max-width:420px;">
       <ul>
         <li>🌱 Growing skills in <strong>Advanced Web Development</strong> &amp; <strong>Data Structures</strong></li>
-        <li>💼 Shipping <strong>open-source features</strong> that matter</li>
-        <li>🤝 Seeking <strong>collaborations</strong> on innovative ideas</li>
+        <li>💼 Shipping <strong>Open-Source features</strong> that matter</li>
+        <li>🤝 Seeking <strong>Collaborations</strong> on innovative ideas</li>
         <li>🔭 Diving into <strong>AI/ML</strong> and <strong>Data Science</strong> ecosystems</li>
-        <li>📝 Crafting clean, maintainable code</li>
+        <li>📝 Crafting Clean, Maintainable Code</li>
         <li>⚡ <strong>Mantra</strong>: <em>Code • Eat • Sleep</em> 🔄</li>
       </ul>
     </td>
