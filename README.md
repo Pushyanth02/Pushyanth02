@@ -24,14 +24,14 @@ const Pushyanth = {
 
 <table align="center">
   <tr>
-    <td style="vertical-align:left; padding:16px; max-width:420px;">
+    <td style="vertical-align:top; padding:16px; max-width:420px;">
       <ul>
-        <li>🌱 Growing skills in <strong>Advanced Web Development</strong> &amp; <strong>Data Structures</strong></li>
-        <li>💼 Shipping <strong>Open-Source features</strong> that matter</li>
-        <li>🤝 Seeking <strong>Collaborations</strong> on innovative ideas</li>
-        <li>🔭 Diving into <strong>AI/ML</strong> and <strong>Data Science</strong> ecosystems</li>
-        <li>📝 Crafting Clean, Maintainable Code</li>
-        <li>⚡ <strong>Mantra</strong>: <em>Code • Eat • Sleep</em> 🔄</li>
+        <li>🌱 Leveling up in <strong>Advanced Web Dev</strong> &amp; <strong>Data Structures</strong></li>
+        <li>💼 Shipping meaningful <strong>Open-Source features</strong></li>
+        <li>🤝 Open to <strong>collabs</strong> on bold ideas</li>
+        <li>🔭 Exploring <strong>AI/ML</strong> + <strong>Data Science</strong></li>
+        <li>📝 Writing clean, maintainable code</li>
+        <li>⚡ <strong>Mantra</strong>: <em>Build • Learn • Repeat</em></li>
       </ul>
     </td>
     <td align="right">
@@ -43,7 +43,13 @@ const Pushyanth = {
 ## 🛠️ Tech Stack &amp; Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,github,vscode" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma" alt="Tech stack icons" />
+</p>
+
+## 📊 GitHub Snapshot
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pushyanth02&theme=radical&hide_border=true" alt="GitHub streak" height="160" />
 </p>
 
 ## 🌐 Connect With Me
