@@ -1,14 +1,14 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Pushyanth♾️&fontSize=58&fontAlign=52&fontAlignY=33&desc=Developer%20•%20Creator%20•%20Innovator&descAlign=49&descAlignY=55&descSize=20&fontColor=ffffff&color=0:fbcfe8,50:c7d2fe,100:a7f3d0" alt="Pushyanth banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Pushyanth♾️&fontSize=58&fontAlign=52&fontAlignY=33&desc=Developer%20•%20Creator%20•%20Innovator&descAlign=49&descAlignY=55&descSize=20&fontColor=ffffff&color=0:fbcfe8,50:c7d2fe,100:a7f3d0" alt="Pushyanth Banner" />
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Animated separator" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Animated Separator" />
 </p>
 
 ## 🚀 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="155" alt="Side gif" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="155" alt="Side " />
 
 ```javascript
 const Pushyanth = {
@@ -25,15 +25,14 @@ const Pushyanth = {
 <table align="center">
   <tr>
     <td style="vertical-align:top; padding:16px; max-width:420px;">
-      <ul>
-        <li>🌱 Leveling up in <strong>Advanced Web Dev</strong> &amp; <strong>Data Structures</strong></li>
-        <li>💼 Shipping meaningful <strong>Open-Source features</strong></li>
-        <li>🤝 Open to <strong>collabs</strong> on bold ideas</li>
-        <li>🔭 Exploring <strong>AI/ML</strong> + <strong>Data Science</strong></li>
-        <li>📝 Writing clean, maintainable code</li>
-        <li>⚡ <strong>Mantra</strong>: <em>Build • Learn • Repeat</em></li>
-      </ul>
-    </td>
+        <ul>
+          <li>🌱 Growing skills in <strong>Advanced Web Development</strong> &amp; <strong>Data Structures</strong></li>
+          <li>💼 Shipping <strong>Open-Source Features</strong> that matter</li>
+          <li>🤝 Seeking <strong>Collaborations</strong> on innovative ideas</li>
+          <li>🔭 Diving into <strong>Data Science</strong>, <strong>AI/ML</strong>, and <strong>Cloud</strong> ecosystems</li>
+          <li>📝 Crafting Clean, Maintainable Code</li>
+          <li>⚡ <strong>Philosophy</strong> : <em>Code • Eat • Sleep</em> 🔄</li>
+        </ul>
     <td align="right">
       <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" alt="Coding GIF" height="200" />
     </td>
