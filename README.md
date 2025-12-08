@@ -33,6 +33,7 @@ const Pushyanth = {
           <li>📝 Crafting Clean, Maintainable Code</li>
           <li>⚡ <strong>Philosophy</strong> : <em>Code • Eat • Sleep</em> 🔄</li>
         </ul>
+    </td>
     <td align="right">
       <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" alt="Coding GIF" height="200" />
     </td>
@@ -43,12 +44,6 @@ const Pushyanth = {
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma" alt="Tech stack icons" />
-</p>
-
-## 📊 GitHub Snapshot
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Pushyanth02&theme=radical&hide_border=true" alt="GitHub streak" height="160" />
 </p>
 
 ## 🌐 Connect With Me
