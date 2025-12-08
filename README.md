@@ -48,6 +48,7 @@ const Pushyanth = {
 ## 📊 GitHub Snapshot
 
 <p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Pushyanth02&theme=radical&hide_border=true" alt="GitHub streak" height="160" />
 </p>
 
 ## 🌐 Connect With Me
