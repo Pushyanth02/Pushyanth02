@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="155" alt="Side " />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="155" alt="Animated developer working at computer" />
 
 ```javascript
 const Pushyanth = {
@@ -24,7 +24,7 @@ const Pushyanth = {
 
 <table align="center">
   <tr>
-    <td style="vertical-align:top; padding:16px; max-width:420px;">
+    <td valign="top">
         <ul>
           <li>🌱 Growing skills in <strong>Advanced Web Development</strong> &amp; <strong>Data Structures</strong></li>
           <li>💼 Shipping <strong>Open-Source Features</strong> that matter</li>
@@ -39,11 +39,19 @@ const Pushyanth = {
     </td>
   </tr>
 </table>
+<br />
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pushyanth02&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<br />
 
 ## 🛠️ Tech Stack &amp; Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma" alt="Tech stack icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma" alt="Icons representing a technology stack including HTML, CSS, JavaScript, Python, Git, GitHub, VS Code, and Figma" />
 </p>
 
 ## 🌐 Connect With Me
