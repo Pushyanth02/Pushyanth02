@@ -24,7 +24,7 @@ const Pushyanth = {
 
 <table align="center">
   <tr>
-    <td valign="top">
+    <td align="top">
         <ul>
           <li>🌱 Growing skills in <strong>Advanced Web Development</strong> &amp; <strong>Data Structures</strong></li>
           <li>💼 Shipping <strong>Open-Source Features</strong> that matter</li>
@@ -39,7 +39,6 @@ const Pushyanth = {
     </td>
   </tr>
 </table>
-
 
 ## 🛠️ Tech Stack &amp; Tools
 
@@ -64,5 +63,5 @@ const Pushyanth = {
 ---
 
 <p align="center">
-  <i>✨ Made with ❤️ by Pushyanth</i>
+  <i>✨ Crafted with ❤️ by Pushyanth</i>
 </p>
