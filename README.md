@@ -1,67 +1,72 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Pushyanth♾️&fontSize=58&fontAlign=52&fontAlignY=33&desc=Developer%20•%20Creator%20•%20Innovator&descAlign=49&descAlignY=55&descSize=20&fontColor=ffffff&color=0:fbcfe8,50:c7d2fe,100:a7f3d0" alt="Pushyanth Banner" />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Hi%20there,%20I'm%20Pushyanth!&fontSize=52&fontAlign=50&fontAlignY=36&desc=Developer%20•%20Creator%20•%20Innovator&descAlign=50&descAlignY=55&descSize=20&fontColor=ffffff&color=0:fbcfe8,50:c7d2fe,100:a7f3d0" alt="Pushyanth banner" />
+</div>
+
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700" alt="Animated Separator" />
-</p>
+<br/>
 
-## 🚀 About Me
+### � About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="155" alt="Animated developer working at computer" />
+<img align="right" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" width="320" alt="Coding boy GIF" />
 
 ```javascript
-const Pushyanth = {
+const pushyanth = {
   pronouns: "He/Him",
-  location: "🌍 Earth",
-  currentFocus: "Thriving As a Lifelong Student of Code 🎓",
-  learning: "New Technologies Every Day 📚",
-  funFact: "The First Programmer Was a Woman"
+  location: "Bangalore, India",
+  learning: "Web Development, Data Structures & Algorithms 🧠",
+  mantra: "Code • Eat • Sleep • Repeat 🔄"
 };
 ```
 
-### 💡 What I'm Currently Doing
+- 💼 Building and shipping **Open-Source Features** that matter
+- 🔭 Exploring the vast ecosystems of **AI/ML** and **Cloud Ecosystems**
+- 🤝 Always open for **collaborations** on innovative ideas!
 
-<table align="center">
-  <tr>
-    <td align="top">
-        <ul>
-          <li>🌱 Growing skills in <strong>Advanced Web Development</strong> &amp; <strong>Data Structures</strong></li>
-          <li>💼 Shipping <strong>Open-Source Features</strong> that matter</li>
-          <li>🤝 Seeking <strong>Collaborations</strong> on innovative ideas</li>
-          <li>🔭 Diving into <strong>Data Science</strong>, <strong>AI/ML</strong>, and <strong>Cloud</strong> ecosystems</li>
-          <li>📝 Crafting Clean, Maintainable Code</li>
-          <li>⚡ <strong>Philosophy</strong> : <em>Code • Eat • Sleep</em> 🔄</li>
-        </ul>
-    </td>
-    <td align="right">
-      <img src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" alt="Coding GIF" height="200" />
-    </td>
-  </tr>
-</table>
+<br />
 
-## 🛠️ Tech Stack &amp; Tools
+### 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,figma" alt="Icons representing a technology stack including HTML, CSS, JavaScript, Python, Git, GitHub, VS Code, and Figma" />
+  <b>Languages</b><br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,python,js,html,css" alt="Languages" />
+  </a>
+  <br><br>
+  <b>Tools & Ecosystem</b><br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,git,github,vscode,figma" alt="Tools" />
+  </a>
 </p>
 
-## 🌐 Connect With Me
+<br />
+
+### 📈 GitHub Analytics
 
 <p align="center">
   <a href="https://github.com/Pushyanth02">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
-  </a>
-  <a href="mailto:pushyanth2008@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/pushyanth-reddy/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pushyanth02&theme=tokyonight&hide_border=true&background=0D1117&ring=A7F3D0&fire=A7F3D0&currStreakLabel=A7F3D0" alt="Pushyanth02's Streak" />
   </a>
 </p>
 
----
+<br/>
+
+### 🌐 Connect With Me
 
 <p align="center">
-  <i>✨ Crafted with ❤️ by Pushyanth</i>
+  <a href="https://www.linkedin.com/in/pushyanth-reddy/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pushyanth2008@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/Pushyanth02">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
+
+<div align="center">
+  <br />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:fbcfe8,50:c7d2fe,100:a7f3d0" width="100%" alt="Footer waving banner" />
+</div>
