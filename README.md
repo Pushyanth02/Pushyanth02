@@ -94,12 +94,7 @@ const pushyanth = {
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Pushyanth02&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A7F3D0&icon_color=C7D2FE&text_color=ffffff&count_private=true" alt="Pushyanth02's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushyanth02&layout=compact&hide_border=true&bg_color=0D1117&title_color=A7F3D0&text_color=ffffff" alt="Pushyanth02's most used languages" />
-
-<br /><br />
-
+  
 <a href="https://github.com/Pushyanth02">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pushyanth02&theme=tokyonight&hide_border=true&background=0D1117&ring=A7F3D0&fire=A7F3D0&currStreakLabel=A7F3D0" alt="Pushyanth02's contribution streak" />
 </a>
