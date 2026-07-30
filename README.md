@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A7F3D0&center=true&vCenter=true&width=620&lines=Developer+%E2%80%A2+Creator+%E2%80%A2+Innovator;Building+open-source+features+that+matter;Exploring+AI%2FML+%26+Cloud+ecosystems;Code+%E2%80%A2+Eat+%E2%80%A2+Sleep+%E2%80%A2+Repeat+%F0%9F%94%84" alt="Animated tagline: Developer, Creator, Innovator" />
 </a>
 
-<br />
+<br /><br />
 
 <!-- Quick-glance identity badges -->
 <img src="https://img.shields.io/badge/Based%20in-Bangalore,%20India-c7d2fe?style=flat-square&labelColor=0D1117" alt="Based in Bangalore, India" />
@@ -19,12 +19,12 @@
 
 </div>
 
-<!-- Waving divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&color=0:fbcfe8,50:c7d2fe,100:a7f3d0" alt="" />
+<br />
 
 <!-- ═══════════════════════════════════════════════════════════════
                              ABOUT ME
 ════════════════════════════════════════════════════════════════ -->
+
 ## 🌸 About Me
 
 <img align="right" src="https://i.pinimg.com/originals/eb/50/87/eb50875a68b04b0480fa929af2c7547c.gif" width="320" alt="Animated illustration of a developer coding" />
@@ -42,21 +42,18 @@ const pushyanth = {
 
 <br clear="right" />
 
-<!-- ═══════════════════════════════════════════════════════════════
-                           CURRENT FOCUS
-════════════════════════════════════════════════════════════════ -->
 ## 🚀 Current Focus
 
 - 💼 &nbsp;Building and shipping **open-source features** that matter
 - 🔭 &nbsp;Exploring the vast ecosystems of **AI / ML** and **Cloud**
 - 🤝 &nbsp;Always open for **collaborations** on innovative ideas
 
-<!-- Waving divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&color=0:a7f3d0,50:c7d2fe,100:fbcfe8" alt="" />
+<br />
 
 <!-- ═══════════════════════════════════════════════════════════════
                             TECH STACK
 ════════════════════════════════════════════════════════════════ -->
+
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
@@ -69,7 +66,7 @@ const pushyanth = {
 
 <br /><br />
 
-**Frontend &amp; Runtime**
+**Frontend & Runtime**
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,nodejs" alt="React, Node.js" />
@@ -77,7 +74,7 @@ const pushyanth = {
 
 <br /><br />
 
-**Tools &amp; Design**
+**Tools & Design**
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Git, GitHub, VS Code, Figma" />
@@ -85,21 +82,33 @@ const pushyanth = {
 
 </div>
 
-<!-- Waving divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&color=0:fbcfe8,50:c7d2fe,100:a7f3d0" alt="" />
+<br />
 
 <!-- ═══════════════════════════════════════════════════════════════
                           GITHUB STATS
 ════════════════════════════════════════════════════════════════ -->
+
 ## 📈 GitHub Stats
 
 <div align="center">
-  
+
+<!-- GitHub Streak Stats -->
 <a href="https://github.com/Pushyanth02">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pushyanth02&theme=tokyonight&hide_border=true&background=0D1117&ring=A7F3D0&fire=A7F3D0&currStreakLabel=A7F3D0" alt="Pushyanth02's contribution streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pushyanth02&theme=tokyonight&hide_border=true&background=0D1117&ring=A7F3D0&fire=A7F3D0&currStreakLabel=A7F3D0&sideLabels=C7D2FE&dates=C7D2FE" alt="Pushyanth02's Contribution Streak" />
+</a>
+
+<br /><br />
+
+<!-- Activity Graph -->
+<a href="https://github.com/Pushyanth02">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Pushyanth02&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A7F3D0&line=C7D2FE&point=FBCFE8&area=true&area_color=A7F3D0" alt="Pushyanth02's Activity Graph" />
 </a>
 
 </div>
+
+<br />
+
+<br />
 
 <!--
   ═══════════════════════════════════════════════════════════════
@@ -125,12 +134,12 @@ const pushyanth = {
   ═══════════════════════════════════════════════════════════════
 -->
 
-<!-- Waving divider -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=70&section=footer&color=0:a7f3d0,50:c7d2fe,100:fbcfe8" alt="" />
+<br />
 
 <!-- ═══════════════════════════════════════════════════════════════
                              CONNECT
 ════════════════════════════════════════════════════════════════ -->
+
 ## 🌐 Connect With Me
 
 <div align="center">
