@@ -18,6 +18,8 @@
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white&color=FBCFE8" alt="LinkedIn" />
 </a>
 
+</div>
+
 ---
 
 <table>
@@ -50,15 +52,13 @@ I use AI heavily while building, but I care about **Understanding, Testing and O
 
 <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts,html,css,react,nextjs,nodejs,prisma,sqlite,docker,git,github,vscode&perline=8&theme=dark" alt="Technology stack" />
 
-<br>
-
-<div align="center">
+<br><br>
 
 `∞` **code · create · learn · repeat** `∞`
 
-<sub>♡ made with curiosity ♡</sub>
+<br>
 
-</div>
+<sub>♡ made with curiosity ♡</sub>
 
 </div>
 
