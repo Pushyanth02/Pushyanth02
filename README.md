@@ -53,7 +53,7 @@ A **CS student** and developer who loves turning ideas into **shipped, polished 
 
 ## 📊 GitHub
 
-<a href="https://github.com/Pushyanth02"><img width="60%" src="https://streak-stats.demolab.com?user=Pushyanth02&hide_border=true&background=0D1117&ring=A7F3D0&fire=FBCFE8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A7F3D0&sideLabels=C7D2FE&dates=555555&v=3" alt="GitHub streak stats" /></a>
+<a href="https://github.com/Pushyanth02"><img width="60%" src="https://raw.githubusercontent.com/Pushyanth02/Pushyanth02/output/streak-stats.svg" alt="GitHub streak stats" /></a>
 
 <br><br>
 
@@ -64,5 +64,6 @@ A **CS student** and developer who loves turning ideas into **shipped, polished 
 <a href="https://pushyanth02.github.io/Portfolio/"><sub><b>Everything ships with care</b></sub></a>
 
 </div>
+
 
 
