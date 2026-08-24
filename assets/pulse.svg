@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="130" viewBox="0 0 220 65" role="img" aria-label="infinity">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#A7F3D0"/>
+      <stop offset=".5" stop-color="#C7D2FE"/>
+      <stop offset="1" stop-color="#FBCFE8"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .loop{fill:none;stroke:url(#g);stroke-width:5;stroke-linecap:round;
+      stroke-dasharray:340;stroke-dashoffset:340;
+      animation:draw 4s ease-in-out infinite;filter:drop-shadow(0 0 4px rgba(167,243,208,.45));}
+    @keyframes draw{0%{stroke-dashoffset:340}55%,80%{stroke-dashoffset:0}100%{stroke-dashoffset:-340}}
+    .dot{fill:#fff}
+  </style>
+  <path id="lem" class="loop" d="M40,32.5 C40,14 66,14 82.5,32.5 C99,51 125,51 125,32.5 C125,14 99,14 82.5,32.5 C66,51 40,51 40,32.5 Z" transform="translate(28,0)"/>
+  <circle r="3.2" class="dot" opacity=".9">
+    <animateMotion dur="4s" repeatCount="indefinite" keyPoints="0;1" keyTimes="0;1" calcMode="linear"
+      path="M68,32.5 C68,14 94,14 110.5,32.5 C127,51 153,51 153,32.5 C153,14 127,14 110.5,32.5 C94,51 68,51 68,32.5 Z"/>
+  </circle>
+</svg>
