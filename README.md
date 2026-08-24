@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&text=pushyanth%20%E2%88%9E&fontSize=54&fontColor=A7F3D0&stroke=C7D2FE&strokeWidth=1&desc=developer%20%C2%B7%20problem%20solver%20%C2%B7%20builder&descSize=13&descColor=FBCFE8&descAlignY=76&animation=fadeIn" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&text=pushyanth%20%E2%88%9E&fontSize=54&fontColor=A7F3D0&stroke=C7D2FE&strokeWidth=1&desc=developer%20%C2%B7%20problem%20solver%20%C2%B7%20builder&descSize=13&descColor=FBCFE8&descAlignY=76&animation=fadeIn&v=2" width="100%" alt="banner" />
 
 <a href="https://pushyanth02.github.io/Portfolio/"><img src="https://img.shields.io/badge/%E2%88%9E_Portfolio-C7D2FE?style=flat-square&labelColor=0D1117&color=C7D2FE" alt="portfolio" /></a>
 <a href="https://github.com/Pushyanth02"><img src="https://img.shields.io/badge/GitHub-A7F3D0?style=flat-square&logo=github&logoColor=0D1117&labelColor=0D1117" alt="github" /></a>
@@ -53,7 +53,7 @@ A **CS student** and developer who loves turning ideas into **shipped, polished 
 
 ## 📊 GitHub
 
-<a href="https://github.com/Pushyanth02"><img width="60%" src="https://streak-stats.demolab.com?user=Pushyanth02&hide_border=true&background=0D1117&ring=A7F3D0&fire=FBCFE8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A7F3D0&sideLabels=C7D2FE&dates=555555" alt="GitHub streak stats" /></a>
+<a href="https://github.com/Pushyanth02"><img width="60%" src="https://streak-stats.demolab.com?user=Pushyanth02&hide_border=true&background=0D1117&ring=A7F3D0&fire=FBCFE8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A7F3D0&sideLabels=C7D2FE&dates=555555&v=2" alt="GitHub streak stats" /></a>
 
 <br><br>
 
@@ -64,3 +64,4 @@ A **CS student** and developer who loves turning ideas into **shipped, polished 
 <a href="https://pushyanth02.github.io/Portfolio/"><sub><b>Everything ships with care</b></sub></a>
 
 </div>
+
