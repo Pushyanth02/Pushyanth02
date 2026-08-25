@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&text=pushyanth&fontSize=54&fontColor=A7F3D0&stroke=C7D2FE&strokeWidth=1&desc=Developer%20%C2%B7%20Problem%20Solver%20%C2%B7%20Builder&descSize=13&descColor=FBCFE8&descAlignY=76&animation=fadeIn&v=2" width="100%" alt="banner" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&text=Pushyanth&fontSize=54&fontColor=A7F3D0&stroke=C7D2FE&strokeWidth=1&desc=Developer%20%C2%B7%20Problem%20Solver%20%C2%B7%20Builder&descSize=13&descColor=FBCFE8&descAlignY=76&animation=fadeIn&v=2" width="100%" alt="banner" />
 
 <a href="https://pushyanth02.github.io/Portfolio/"><img src="https://img.shields.io/badge/%E2%88%9E_Portfolio-C7D2FE?style=flat-square&labelColor=0D1117&color=C7D2FE" alt="portfolio" /></a>
 <a href="https://github.com/Pushyanth02"><img src="https://img.shields.io/badge/GitHub-A7F3D0?style=flat-square&logo=github&logoColor=0D1117&labelColor=0D1117" alt="github" /></a>
