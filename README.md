@@ -26,7 +26,7 @@ A **CS student** and developer who loves turning ideas into **shipped, polished 
 - 🤖 Building with AI — but understanding, testing and owning every outcome
 - 🌱 Open-source enthusiast · local-first believer
 
-> *"Understand it, test it, own it — then ship it."*
+> _"Understand it, test it, own it — then ship it."_
 
 <img src="assets/terminal.svg" width="290" alt="blinking-cursor build terminal" />
 
@@ -74,23 +74,6 @@ A **CS student** and developer who loves turning ideas into **shipped, polished 
   <img width="98.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pushyanth02&theme=radical" alt="Pushyanth's Profile Details" />
 </p>
 
-<!-- Top Programming Languages -->
-<p align="center">
-  <img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pushyanth02&langs_count=8&layout=compact&theme=radical&border_radius=10&cache_seconds=7200" alt="Pushyanth's Top Languages" />
-</p>
-
-<!-- Language & Commit Distribution (Matched 340x200 Pair) -->
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pushyanth02&theme=radical" alt="Repos Per Language" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pushyanth02&theme=radical" alt="Most Commit Language" />
-</p>
-
-<!-- Productivity Timing & Account Metrics (Matched 340x200 Pair) -->
-<p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pushyanth02&theme=radical" alt="Pushyanth's GitHub Profile Stats" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pushyanth02&theme=radical&utcOffset=5.5" alt="Pushyanth's Productive Time (IST)" />
-</p>
-
 <!-- Contribution Snake Animation (Self-hosted & Auto-updating) -->
 <h2 align="center">🐍 Contribution Journey</h2>
 
@@ -113,4 +96,3 @@ A **CS student** and developer who loves turning ideas into **shipped, polished 
 <a href="https://pushyanth02.github.io/Portfolio/"><sub><b>Everything ships with care</b></sub></a>
 
 </div>
-
