@@ -27,7 +27,7 @@ jobs:
       - name: Self-host streak stats card (bypasses broken camo proxy)
         run: |
           curl -fsSL --retry 3 --retry-delay 5 --max-time 60 -o dist/streak-stats.svg \
-            "https://streak-stats.demolab.com?user=Pushyanth02&hide_border=true&background=0D1117&ring=A7F3D0&fire=FBCFE8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=A7F3D0&sideLabels=C7D2FE&dates=555555"
+            "https://streak-stats.demolab.com?user=Pushyanth02&theme=radical&border=true&border_radius=10"
           test -s dist/streak-stats.svg
 
       - name: Push to output branch

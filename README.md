@@ -49,13 +49,62 @@ A **CS student** and developer who loves turning ideas into **shipped, polished 
 
 ---
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://trophy.ryglcloud.net/?username=Pushyanth02&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Pushyanth's GitHub Trophies" />
+  </a>
+</p>
+
+<h2 align="center">📊 Activity & Performance</h2>
+
+<!-- Core Activity Metrics: Streak & GitHub Stats (Matched 495x195 Aspect Ratio) -->
+<p align="center">
+  <a href="https://github.com/Pushyanth02">
+    <img width="49%" src="https://streak-stats.demolab.com/?user=Pushyanth02&theme=radical&border=true&border_radius=10&cache_seconds=86400" alt="Pushyanth's GitHub Streak" />
+  </a>
+  <a href="https://github.com/Pushyanth02">
+    <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Pushyanth02&theme=radical&border_radius=10&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=7200" alt="Pushyanth's GitHub Stats" />
+  </a>
+</p>
+
+<!-- Annual Contribution Overview (700x200 Wide Card) -->
+<p align="center">
+  <img width="98.5%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Pushyanth02&theme=radical" alt="Pushyanth's Profile Details" />
+</p>
+
+<!-- Top Programming Languages -->
+<p align="center">
+  <img width="60%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Pushyanth02&langs_count=8&layout=compact&theme=radical&border_radius=10&cache_seconds=7200" alt="Pushyanth's Top Languages" />
+</p>
+
+<!-- Language & Commit Distribution (Matched 340x200 Pair) -->
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pushyanth02&theme=radical" alt="Repos Per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Pushyanth02&theme=radical" alt="Most Commit Language" />
+</p>
+
+<!-- Productivity Timing & Account Metrics (Matched 340x200 Pair) -->
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pushyanth02&theme=radical" alt="Pushyanth's GitHub Profile Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Pushyanth02&theme=radical&utcOffset=5.5" alt="Pushyanth's Productive Time (IST)" />
+</p>
+
+<!-- Contribution Snake Animation (Self-hosted & Auto-updating) -->
+<h2 align="center">🐍 Contribution Journey</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pushyanth02/Pushyanth02/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pushyanth02/Pushyanth02/output/github-contribution-grid-snake.svg" />
+    <img alt="Pushyanth's GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Pushyanth02/Pushyanth02/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
+---
+
 <div align="center">
-
-## 📊 GitHub
-
-<a href="https://github.com/Pushyanth02"><img width="60%" src="https://raw.githubusercontent.com/Pushyanth02/Pushyanth02/output/streak-stats.svg" alt="GitHub streak stats" /></a>
-
-<br><br>
 
 `∞` **Code · Create · Learn · Repeat** `∞`
 
@@ -64,3 +113,4 @@ A **CS student** and developer who loves turning ideas into **shipped, polished 
 <a href="https://pushyanth02.github.io/Portfolio/"><sub><b>Everything ships with care</b></sub></a>
 
 </div>
+
