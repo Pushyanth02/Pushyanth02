@@ -2,10 +2,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&text=Pushyanth&fontSize=54&fontColor=A7F3D0&stroke=C7D2FE&strokeWidth=1&desc=Developer%20%C2%B7%20Problem%20Solver%20%C2%B7%20Builder&descSize=13&descColor=FBCFE8&descAlignY=76&animation=fadeIn&v=2" width="100%" alt="banner" />
 
-<a href="https://pushyanth02.github.io/Portfolio/"><img src="https://img.shields.io/badge/%E2%88%9E_Portfolio-C7D2FE?style=flat-square&labelColor=0D1117&color=C7D2FE" alt="portfolio" /></a>
-<a href="https://github.com/Pushyanth02"><img src="https://img.shields.io/badge/GitHub-A7F3D0?style=flat-square&logo=github&logoColor=0D1117&labelColor=0D1117" alt="github" /></a>
-<a href="https://www.linkedin.com/in/pushyanth-reddy/"><img src="https://img.shields.io/badge/LinkedIn-FBCFE8?style=flat-square&logo=linkedin&logoColor=0D1117&labelColor=0D1117" alt="linkedin" /></a>
-<a href="mailto:pushyanth2008@gmail.com"><img src="https://img.shields.io/badge/Email-FDE68A?style=flat-square&logo=gmail&logoColor=0D1117&labelColor=0D1117" alt="email" /></a>
+<p align="center">
+  <a href="https://pushyanth02.github.io/Portfolio/"><img src="https://img.shields.io/badge/%E2%88%9E_Portfolio-C7D2FE?style=flat-square" alt="portfolio" /></a>
+  <a href="https://www.linkedin.com/in/pushyanth-reddy/"><img src="https://img.shields.io/badge/LinkedIn-FBCFE8?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzBkMTExNyI+PHBhdGggZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NVY5aDMuNTd2MTEuNDV6Ii8+PC9zdmc+" alt="linkedin" /></a>
+  <a href="mailto:pushyanth2008@gmail.com"><img src="https://img.shields.io/badge/Email-FDE68A?style=flat-square&logo=gmail&logoColor=0D1117" alt="email" /></a>
+</p>
 
 <!-- inbuilt animation: self-drawing lemniscate with an orbiting dot -->
 <br>
@@ -41,11 +42,14 @@ A **CS student** and developer who loves turning ideas into **shipped, polished 
 </tr>
 </table>
 
-### ⚡ Daily Drivers
+### ⚡ Tech Stack & Tooling
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,ts,react,nextjs,nodejs,tailwind,prisma,sqlite,docker,git,vscode&perline=12&theme=dark" alt="stack" />
-</p>
+| Domain | Technologies |
+| :--- | :--- |
+| **🌐 Languages** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,py,c,cpp,html,css&theme=dark" alt="Languages" /></a> |
+| **🎨 Frontend & UI** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nextjs,react,tailwind&theme=dark" alt="Frontend & UI" /></a> |
+| **⚙️ Backend & Databases** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,sqlite,prisma&theme=dark" alt="Backend & Databases" /></a> |
+| **🛠️ Developer Tools & DevOps** | <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,vscode&theme=dark" alt="Developer Tools" /></a> |
 
 ---
 
