@@ -7,12 +7,37 @@
   <a href="https://www.linkedin.com/in/pushyanth-reddy/"><img src="https://img.shields.io/badge/LinkedIn-FBCFE8?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzBkMTExNyI+PHBhdGggZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NVY5aDMuNTd2MTEuNDV6Ii8+PC9zdmc+" alt="linkedin" /></a>
   <a href="mailto:pushyanth2008@gmail.com"><img src="https://img.shields.io/badge/Email-FDE68A?style=flat-square&logo=gmail&logoColor=0D1117" alt="email" /></a>
 </p>
+<!-- animated contribution graph: real data, boxes reveal cell by cell
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
-<!-- inbuilt animation: self-drawing lemniscate with an orbiting dot -->
+<h3><code>Pushyanth02@github ~ $ ./contributions.sh</code></h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pushyanth02/Pushyanth02/output/contrib-heatmap-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pushyanth02/Pushyanth02/output/contrib-heatmap.svg" />
+  <img src="https://raw.githubusercontent.com/Pushyanth02/Pushyanth02/output/contrib-heatmap-dark.svg" width="860" alt="Pushyanth's GitHub contribution graph — auto-refreshed daily" />
+</picture>
+
 <br>
-<img src="assets/pulse.svg" width="270" alt="self-drawing infinity loop" />
+<br>
 
-</div>
+<!-- ascii portrait (left) + streak/numbers card (right). both svgs are
+     840x880 so equal widths give equal heights.
+     portrait: python scripts/prep_photo.py <dp.png> && python scripts/make_ascii_svg.py
+     stats:    python scripts/render_stats_svg.py (same daily workflow) -->
+
+<h3><code>Pushyanth02@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="https://raw.githubusercontent.com/Pushyanth02/Pushyanth02/output/avi-ascii.svg" width="420" alt="Pushyanth — ASCII portrait" /></td>
+<td valign="top"><img src="https://raw.githubusercontent.com/Pushyanth02/Pushyanth02/output/stats.svg" width="420" alt="Pushyanth's GitHub streak and contribution stats — auto-refreshed daily" /></td>
+</tr>
+</table>
+
+<br>
+<br>
+
 
 <table>
 <tr>
@@ -97,6 +122,21 @@ A **CS student** and developer who loves turning ideas into **shipped, polished 
 
 <br>
 
-<a href="https://pushyanth02.github.io/Portfolio/"><sub><b>Everything ships with care</b></sub></a>
+<h3 align="center"><code>Pushyanth02@github ~ $ ./links.sh</code></h3>
 
-</div>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td><a href="https://pushyanth02.github.io/Portfolio/">🌐 Portfolio</a></td>
+      <td><a href="https://github.com/Pushyanth02">🐙 GitHub</a></td>
+      <td><a href="https://www.linkedin.com/in/pushyanth-reddy/">🔗 LinkedIn</a></td>
+      <td><a href="mailto:pushyanth2008@gmail.com?subject=hello">✉️ Email</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://drive.google.com/file/d/1kjAvkQHl2-mOJIaATOVuYwcPCIdXMjrM/view">📹 Resume</a></td>
+      <td><a href="https://youtube.com/@pushyanth">▶️ YouTube</a></td>
+      <td><a href="https://leetcode.com/u/pushyanth02-">🧩 LeetCode</a></td>
+      <td><a href="https://codeforces.com/profile/Pushyanth">🏁 Codeforces</a></td>
+    </tr>
+  </table>
+</p>
