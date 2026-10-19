@@ -93,23 +93,4 @@ A **CS student** and developer who loves turning ideas into **shipped, polished 
 
 <img src="assets/pulse.svg" width="180" alt="animated infinity loop" />
 
-<br>
-
-<h3 align="center"><code>Pushyanth02@github ~ $ ./links.sh</code></h3>
-
-<p align="center">
-  <table align="center">
-    <tr>
-      <td><a href="https://pushyanth02.github.io/Portfolio/">🌐 Portfolio</a></td>
-      <td><a href="https://github.com/Pushyanth02">🐙 GitHub</a></td>
-      <td><a href="https://www.linkedin.com/in/pushyanth-reddy/">🔗 LinkedIn</a></td>
-      <td><a href="mailto:pushyanth2008@gmail.com?subject=hello">✉️ Email</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://drive.google.com/file/d/1kjAvkQHl2-mOJIaATOVuYwcPCIdXMjrM/view">📹 Resume</a></td>
-      <td><a href="https://youtube.com/@pushyanth">▶️ YouTube</a></td>
-      <td><a href="https://leetcode.com/u/pushyanth02-">🧩 LeetCode</a></td>
-      <td><a href="https://codeforces.com/profile/Pushyanth">🏁 Codeforces</a></td>
-    </tr>
-  </table>
-</p>
+</div>
