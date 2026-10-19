@@ -23,8 +23,11 @@
 
 <!-- ascii portrait (left) + streak/numbers card (right). both svgs are
      840x880 so equal widths give equal heights.
-     portrait: python scripts/prep_photo.py <dp.png> && python scripts/make_ascii_svg.py
-     stats:    python scripts/render_stats_svg.py (same daily workflow) -->
+     local regen:
+       python scripts/fetch_data.py dist/user-data.json
+       python scripts/prep_photo.py <dp.png|avatar-url> dist && python scripts/make_ascii_svg.py
+       python scripts/render_stats_svg.py dist/user-data.json dist/stats.svg
+     (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
 <h3><code>Pushyanth02@github ~ $ whoami</code></h3>
 
@@ -119,6 +122,8 @@ A **CS student** and developer who loves turning ideas into **shipped, polished 
 <div align="center">
 
 `∞` **Code · Create · Learn · Repeat** `∞`
+
+<img src="assets/pulse.svg" width="180" alt="animated infinity loop" />
 
 <br>
 
