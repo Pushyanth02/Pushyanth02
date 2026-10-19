@@ -7,40 +7,8 @@
   <a href="https://www.linkedin.com/in/pushyanth-reddy/"><img src="https://img.shields.io/badge/LinkedIn-FBCFE8?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzBkMTExNyI+PHBhdGggZD0iTTIwLjQ1IDIwLjQ1aC0zLjU2di01LjU3YzAtMS4zMy0uMDMtMy4wNC0xLjg1LTMuMDQtMS44NiAwLTIuMTQgMS40NS0yLjE0IDIuOTR2NS42N0g5LjM1VjloMy40MXYxLjU2aC4wNWMuNDgtLjkgMS42NC0xLjg1IDMuMzctMS44NSAzLjYgMCA0LjI3IDIuMzcgNC4yNyA1LjQ2djYuMjh6TTUuMzQgNy40M2EyLjA2IDIuMDYgMCAxIDEgMC00LjEyIDIuMDYgMi4wNiAwIDAgMSAwIDQuMTJ6TTcuMTIgMjAuNDVIMy41NVY5aDMuNTd2MTEuNDV6Ii8+PC9zdmc+" alt="linkedin" /></a>
   <a href="mailto:pushyanth2008@gmail.com"><img src="https://img.shields.io/badge/Email-FDE68A?style=flat-square&logo=gmail&logoColor=0D1117" alt="email" /></a>
 </p>
-<!-- animated contribution graph: real data, boxes reveal cell by cell
-     (regenerated daily by .github/workflows/update-profile-art.yml) -->
-
-<h3><code>Pushyanth02@github ~ $ ./contributions.sh</code></h3>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Pushyanth02/Pushyanth02/output/contrib-heatmap-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pushyanth02/Pushyanth02/output/contrib-heatmap.svg" />
-  <img src="https://raw.githubusercontent.com/Pushyanth02/Pushyanth02/output/contrib-heatmap-dark.svg" width="860" alt="Pushyanth's GitHub contribution graph — auto-refreshed daily" />
-</picture>
-
 <br>
 <br>
-
-<!-- ascii portrait (left) + streak/numbers card (right). both svgs are
-     840x880 so equal widths give equal heights.
-     local regen:
-       python scripts/fetch_data.py dist/user-data.json
-       python scripts/prep_photo.py <dp.png|avatar-url> dist && python scripts/make_ascii_svg.py
-       python scripts/render_stats_svg.py dist/user-data.json dist/stats.svg
-     (regenerated daily by .github/workflows/update-profile-art.yml) -->
-
-<h3><code>Pushyanth02@github ~ $ whoami</code></h3>
-
-<table>
-<tr>
-<td valign="top"><img src="https://raw.githubusercontent.com/Pushyanth02/Pushyanth02/output/avi-ascii.svg" width="420" alt="Pushyanth — ASCII portrait" /></td>
-<td valign="top"><img src="https://raw.githubusercontent.com/Pushyanth02/Pushyanth02/output/stats.svg" width="420" alt="Pushyanth's GitHub streak and contribution stats — auto-refreshed daily" /></td>
-</tr>
-</table>
-
-<br>
-<br>
-
 
 <table>
 <tr>

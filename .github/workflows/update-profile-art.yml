@@ -18,36 +18,8 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 10
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: Install dependencies
-        run: pip install pillow
-
-      - name: Fetch GitHub data (GraphQL)
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_USER: Pushyanth02
-        run: python scripts/fetch_data.py dist/user-data.json
-
-      - name: Generate contribution heatmaps (light + dark)
-        run: python scripts/render_heatmap.py dist/user-data.json dist
-
-      - name: Generate ASCII portrait from avatar
-        run: |
-          python scripts/prep_photo.py https://github.com/Pushyanth02.png dist
-          python scripts/make_ascii_svg.py dist/ascii_grid.json dist/avi-ascii.svg
-
-      - name: Generate streak/numbers card
-        run: python scripts/render_stats_svg.py dist/user-data.json dist/stats.svg
-
       - name: Generate snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
